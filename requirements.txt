@@ -1,0 +1,7 @@
+scipy
+pycocotools
+pytorch_pretrained_bert
+timm
+fvcore
+tensorboardX
+transformers

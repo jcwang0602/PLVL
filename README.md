@@ -1,7 +1,5 @@
 # Progressive Language-guided Visual Learning for Multi-Task Visual Grounding
 
-![image-20240714213526431](assets/different_frame.png)
-
 ### Install
 ```
 conda create -n plvl Python=3.8
@@ -131,13 +129,14 @@ Our model is related to [EEVG](https://github.com/chenwei746/EEVG), [UVLTrack](h
 ## Citation
 If our work is useful for your research, please consider cite:
 ```
-@misc{ma2024unifying,
-      title={Unifying Visual and Vision-Language Tracking via Contrastive Learning}, 
-      author={Yinchao Ma and Yuyang Tang and Wenfei Yang and Tianzhu Zhang and Jinpeng Zhang and Mengxue Kang},
-      year={2024},
-      eprint={2401.11228},
+@misc{wang2025progressivelanguageguidedvisuallearning,
+      title={Progressive Language-guided Visual Learning for Multi-Task Visual Grounding}, 
+      author={Jingchao Wang and Hong Wang and Wenlong Zhang and Kunhua Ji and Dingjiang Huang and Yefeng Zheng},
+      year={2025},
+      eprint={2504.16145},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.16145}, 
 }
 ```
 

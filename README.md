@@ -1,5 +1,7 @@
 # Progressive Language-guided Visual Learning for Multi-Task Visual Grounding
 
+Paper Link [ArXiv](https://arxiv.org/abs/2504.16145).
+
 ### Install
 ```
 conda create -n plvl Python=3.8
